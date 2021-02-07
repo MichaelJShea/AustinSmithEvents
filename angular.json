@@ -19,15 +19,14 @@
           "options": {
             "outputPath": "dist/",
             "index": "src/index.html",
-            "baseHref": "/AustinSmithEvents/",
+            "baseHref": "https://MichaelJShea.github.io/AustinSmithEvents/",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "aot": true,
             "assets": [
               "src/favicon.ico",
-              "src/assets",
-              "src/app/404.html"
+              "src/assets"
             ],
             "styles": [
               "src/styles.scss"
